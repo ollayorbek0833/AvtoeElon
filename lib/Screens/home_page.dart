@@ -17,7 +17,7 @@ class _CarsListState extends State<CarsList> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        leading: const Icon(Icons.menu),
+        leading: IconButton(icon: const Icon(Icons.menu), onPressed: (){},),
         title: Row(
           children: [
             Text(
