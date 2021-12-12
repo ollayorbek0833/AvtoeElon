@@ -1,5 +1,5 @@
-<h1>Githubga qo'yilgan eng birinchimas ikkinchi proyekt bo'lishi mumkin edi, lekin unday emas. Chunki buni proyekt deb bo'lmaydi.</h1>
+<h1>UzavtoElon app /h1>
 
-<h3>Ina screenshotla</h3>
+<h3>Ina screenshots</h3>
 
 <img src="https://raw.githubusercontent.com/ollayorbek0833/AvtoeElon/master/screenshot.png" alt="Screenshot" />
