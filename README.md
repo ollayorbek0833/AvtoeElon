@@ -1,4 +1,4 @@
-<h1>UzavtoElon app /h1>
+<h1>UzavtoElon app
 
 <h3>Ina screenshots</h3>
 
